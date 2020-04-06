@@ -1,0 +1,18 @@
+.navbar {
+  font-family: 'Aloza';
+    width: 100%;
+    height: 1000%;
+background-color: black;
+font-size: xx-large;
+
+}   
+.display-4{
+   font-family: 'Aloza';
+ }
+
+.lead my-3{
+  font-family: 'Lucida Console", Monaco, monospace';
+}
+.lead mb-0{
+  font-family: 'Lucida Console", Monaco, monospace';
+}
